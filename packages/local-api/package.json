@@ -1,6 +1,6 @@
 {
   "name": "@code-papers/local-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "files": [
     "dist"
@@ -24,7 +24,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "@code-papers/local-app": "^1.0.0",
+    "@code-papers/local-app": "^1.0.1",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "http-proxy-middleware": "^2.0.6"

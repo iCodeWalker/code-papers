@@ -1,6 +1,6 @@
 {
   "name": "code-papers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "files": [
     "dist"
@@ -18,10 +18,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@code-papers/local-app": "^1.0.0"
+    "@code-papers/local-app": "^1.0.1"
   },
   "devDependencies": {
-    "@code-papers/local-api": "^1.0.0",
+    "@code-papers/local-api": "^1.0.1",
     "@types/node": "^18.14.0",
     "commander": "^10.0.0",
     "esbuild": "0.8.26",
