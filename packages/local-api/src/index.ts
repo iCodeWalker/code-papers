@@ -27,7 +27,7 @@ export const startApp = (
     );
   } else {
     const packagePath = require.resolve(
-      "@react-note-book/local-app/build/index.html"
+      "@code-papers/local-app/build/index.html"
     );
     app.use(express.static(path.dirname(packagePath)));
   }

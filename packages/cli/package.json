@@ -1,5 +1,5 @@
 {
-  "name": "react-note-book",
+  "name": "code-papers",
   "version": "1.0.0",
   "description": "",
   "files": [
@@ -18,13 +18,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@react-note-book/local-app": "^1.0.0"
+    "@code-papers/local-app": "^1.0.0"
   },
   "devDependencies": {
-    "@react-note-book/local-api": "^1.0.0",
+    "@code-papers/local-api": "^1.0.0",
     "@types/node": "^18.14.0",
     "commander": "^10.0.0",
     "esbuild": "0.8.26",
     "typescript": "^4.9.5"
-  }
+  },
+  "gitHead": "b59bba02de96fc7aec045109459256fd6cea188a"
 }
